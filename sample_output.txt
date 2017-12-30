@@ -1,0 +1,15 @@
+The group of 1 and the group of 2 are merged.
+The two members are in the same group already.
+1
+2
+3
+1
+0
+0
+3
+3
+3
+2
+2
+1
+

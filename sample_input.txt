@@ -1,0 +1,18 @@
+hire 1 1
+hire 2 2
+hire 3 3
+merge 1 2
+merge 1 2
+aop 1
+aop 2
+aop 3
+dop 1
+dop 2
+dop 3
+aog 1
+aog 2
+aog 3
+sog 1
+sog 2
+sog 3
+
